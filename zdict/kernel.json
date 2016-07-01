@@ -1,0 +1,4 @@
+{
+    "argv": ["python", "-m", "zdict_jupyter", "-f", "{connection_file}"],
+    "display_name": "zdict"
+}
